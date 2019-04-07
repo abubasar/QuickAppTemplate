@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArifsEshopping", "ArifsEshopping\ArifsEshopping\ArifsEshopping.csproj", "{A48283B5-F4F7-41BF-8AF0-E97F1558771B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "ArifsEshopping\DAL\DAL.csproj", "{9EFB7AB8-ECF9-4ED1-8334-776C849B7674}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48283B5-F4F7-41BF-8AF0-E97F1558771B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48283B5-F4F7-41BF-8AF0-E97F1558771B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48283B5-F4F7-41BF-8AF0-E97F1558771B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48283B5-F4F7-41BF-8AF0-E97F1558771B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFB7AB8-ECF9-4ED1-8334-776C849B7674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFB7AB8-ECF9-4ED1-8334-776C849B7674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFB7AB8-ECF9-4ED1-8334-776C849B7674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFB7AB8-ECF9-4ED1-8334-776C849B7674}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB57F92-F345-4404-9CFD-49BA0F50158E}
+	EndGlobalSection
+EndGlobal
